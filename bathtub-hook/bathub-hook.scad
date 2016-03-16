@@ -1,14 +1,14 @@
 $fn = 120;
 
 top_hook_depth = 24;
-top_hook_gap = 11;
-bottom_hook_gap = 12;
-bottom_hook_depth = 20;
+top_hook_gap = 19;
+bottom_hook_gap = 6;
+bottom_hook_depth = 8;
 
-height = 75;
-width = 40;
+height = 54;
+width = 20;
 
-thickness = 6;
+thickness = 4;
 
 main_bar_length = height - bottom_hook_depth + thickness;
 
